@@ -3,8 +3,9 @@ package main
 import (
 	"fmt"
 
+	homework1 "github.com/zhuruiIcarbonx/metanode1/homework/golang01"
+
 	lesson1 "github.com/zhuruiIcarbonx/metanode1/lesson1"
-	"github.com/zhuruiIcarbonx/metanode1/lesson16"
 )
 
 func main() {
@@ -19,5 +20,6 @@ func main() {
 	// lesson15.RangeSliceAndArray()
 	// lesson15.RangeChan()
 
-	lesson16.DoInterface()
+	// lesson16.DoInterface()
+	homework1.IsPalindrome(121)
 }
