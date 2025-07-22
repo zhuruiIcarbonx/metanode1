@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	lesson1 "github.com/zhuruiIcarbonx/metanode1/lesson1"
-	lesson14 "github.com/zhuruiIcarbonx/metanode1/lesson14"
+	"github.com/zhuruiIcarbonx/metanode1/lesson16"
 )
 
 func main() {
@@ -13,5 +13,11 @@ func main() {
 
 	// lesson14.DoSth()
 	// lesson14.UseMap()
-	lesson14.MapLock()
+	// lesson14.MapLock()
+	// lesson15.RangeStr()
+	// lesson15.RangeCN()
+	// lesson15.RangeSliceAndArray()
+	// lesson15.RangeChan()
+
+	lesson16.DoInterface()
 }
