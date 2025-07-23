@@ -21,5 +21,10 @@ func main() {
 	// lesson15.RangeChan()
 
 	// lesson16.DoInterface()
-	homework1.LongestCommonPrefix([]string{"flower", "flow", "flight"})
+	// homework1.LongestCommonPrefix([]string{"flower", "flow", "flight"})
+
+	// arr := homework1.PlusOne([]int{7, 2, 8, 5, 0, 9, 1, 2, 9, 5, 3, 6, 6, 7, 3, 2, 8, 4, 3, 7, 9, 5, 7, 7, 4, 7, 4, 9, 4, 7, 0, 1, 1, 1, 7, 4, 0, 0, 6})
+
+	arr := homework1.Merge([][]int{{2, 3}, {2, 2}, {3, 3}, {1, 3}, {5, 7}, {2, 2}, {4, 6}})
+	fmt.Println("-------------------------arr=", arr)
 }
