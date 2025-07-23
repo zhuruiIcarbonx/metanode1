@@ -21,5 +21,5 @@ func main() {
 	// lesson15.RangeChan()
 
 	// lesson16.DoInterface()
-	homework1.IsPalindrome(121)
+	homework1.LongestCommonPrefix([]string{"flower", "flow", "flight"})
 }
