@@ -28,5 +28,15 @@ func main() {
 
 	// fmt.Println("-------------------------arr=", arr)
 
-	homework2.Chanel1()
+	// homework2.Chanel1()
+	// homework2.Chanel2()
+	// homework2.Goroutine1()
+	// homework2.Goroutine2()
+	// homework2.Pointer1()
+	// homework2.Pointer2()
+	// homework2.Object1()
+	// homework2.Object2()
+	homework2.Lock1()
+	// homework2.Lock2()
+
 }
