@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	gorm "github.com/zhuruiIcarbonx/metanode1/homework/gorm"
+	gorm "github.com/zhuruiIcarbonx/metanode1/homework/gorm1"
 	lesson1 "github.com/zhuruiIcarbonx/metanode1/lesson1"
 )
 
@@ -39,6 +39,7 @@ func main() {
 	// homework2.Lock1()
 	// homework2.Lock2()
 	// gorm.Crud()
-	gorm.Transfer()
+	// gorm.Transfer()
+	gorm.Sqlx1()
 
 }
