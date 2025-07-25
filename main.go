@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	homework2 "github.com/zhuruiIcarbonx/metanode1/homework/golang02"
+	gorm "github.com/zhuruiIcarbonx/metanode1/homework/gorm"
 	lesson1 "github.com/zhuruiIcarbonx/metanode1/lesson1"
 )
 
@@ -36,7 +36,9 @@ func main() {
 	// homework2.Pointer2()
 	// homework2.Object1()
 	// homework2.Object2()
-	homework2.Lock1()
+	// homework2.Lock1()
 	// homework2.Lock2()
+	// gorm.Crud()
+	gorm.Transfer()
 
 }
