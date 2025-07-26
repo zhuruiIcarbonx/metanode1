@@ -40,6 +40,8 @@ func main() {
 	// homework2.Lock2()
 	// gorm.Crud()
 	// gorm.Transfer()
-	gorm.Sqlx1()
+	// gorm.Sqlx1()
+	// gorm.Sqlx2()
+	gorm.PostComment()
 
 }
