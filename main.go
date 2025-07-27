@@ -42,6 +42,6 @@ func main() {
 	// gorm.Transfer()
 	// gorm.Sqlx1()
 	// gorm.Sqlx2()
-	gorm.PostComment()
+	gorm.Postcomment()
 
 }

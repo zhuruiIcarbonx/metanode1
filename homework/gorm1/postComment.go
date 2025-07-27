@@ -86,7 +86,7 @@ func (c *Comment) AfterDelete(tx *gorm.DB) (err error) {
 	return nil
 }
 
-func PostComment() {
+func Postcomment() {
 	db := initDb()
 	db.Debug().Exec("DROP TABLE IF EXISTS users, posts, comments")
 	db.Debug().AutoMigrate(&User{})
