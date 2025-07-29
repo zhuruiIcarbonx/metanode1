@@ -16,6 +16,9 @@ https://github.com/MetaNodeAcademy/LearningRoadmap/blob/main/%E8%BF%9B%E9%98%B61
 https://go-zero.dev/docs/tutorials
 https://space.bilibili.com/389552232/upload/video
 
+//视频gozero例子
+https://github.com/Mikaelemmmm/
+
 
 
 ------------------------
