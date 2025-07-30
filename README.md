@@ -22,6 +22,8 @@ https://github.com/Mikaelemmmm/
 //wakuang
 https://ncnlo95gua0y.feishu.cn/wiki/FwZQwnetZiwIwfkdR3Eckjvanod
 
+//english
+https://www.oxfordlearnersdictionaries.com/wordlist/american_english/oxford3000/
 ------------------------
 
 任务 1：区块链读写 任务目标
