@@ -24,6 +24,12 @@ https://ncnlo95gua0y.feishu.cn/wiki/FwZQwnetZiwIwfkdR3Eckjvanod
 
 //english
 https://www.oxfordlearnersdictionaries.com/wordlist/american_english/oxford3000/
+
+
+1、完成补充智能合约内容的学习
+参考资料：https://github.com/AmazingAng/WTF-Solidity?tab=readme-ov-file
+从第一讲学习到S17跨服重入攻击
+
 ------------------------
 
 任务 1：区块链读写 任务目标
