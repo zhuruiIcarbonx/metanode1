@@ -30,6 +30,15 @@ https://www.oxfordlearnersdictionaries.com/wordlist/american_english/oxford3000/
 参考资料：https://github.com/AmazingAng/WTF-Solidity?tab=readme-ov-file
 从第一讲学习到S17跨服重入攻击
 
+问题：
+1、contract C is A {
+    constructor(uint _c) A(_c * _c) {}
+}
+
+A(_c * _c)
+
+2、CREATE2是否会重复创建
+
 ------------------------
 
 任务 1：区块链读写 任务目标
