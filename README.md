@@ -39,6 +39,12 @@ A(_c * _c)
 
 2、CREATE2是否会重复创建
 
+
+Rust:
+1、https://github.com/rust-boom/rust-boom
+2、https://github.com/dodolalorc/BlockChain
+3、https://rustmagazine.github.io/rust_magazine_2021/chapter_5/six-years-of-rust.html
+
 ------------------------
 
 任务 1：区块链读写 任务目标
