@@ -116,33 +116,33 @@ foundry.tomlFoundry 具有高度可配置性，您可以根据自己的需求进
 
 
 Foundry中的forge命令是Foundry工具套件的核心命令，用于执行各种与智能合约开发和测试相关的操作，主要包括项目管理 (init, clone, install)、构建 (build, clean)、测试 (test, coverage)、部署 (create, verify-contract) 和调试 (debug) 等功能.﻿
-以下是forge命令的分类及常用命令：
-通用命令﻿
-forge help：显示所有可用命令的帮助信息.
-forge completions：生成shell 补全脚本.
-项目命令﻿
-forge init：在当前目录下初始化一个新的Foundry 项目.
-forge clone：克隆一个Foundry 项目.
-forge install：安装项目的依赖项.
-forge update：更新项目中的依赖项.
-forge remove：移除项目的依赖项.
-forge config：配置项目设置.
-forge remappings：管理合约的重映射.
-forge tree：显示项目目录结构.
-forge geiger：检查代码中的潜在安全漏洞.
-构建命令﻿
-forge build：编译项目中的智能合约.
-forge clean：清除构建产物.
-forge inspect：检查构建的详细信息.
-测试命令﻿
-forge test：运行项目中的所有测试用例.
-forge snapshot：对测试结果进行快照比较.
-forge coverage：生成代码覆盖率报告.
-部署命令﻿
-forge create：将智能合约部署到区块链网络.
-forge verify-contract：验证已部署合约的代码.
-forge verify-check：检查合约验证状态.
-forge flatten：将合约及其所有依赖项展平成一个文件.
+以下是forge命令的分类及常用命令： <br/>
+通用命令﻿ <br/>
+forge help：显示所有可用命令的帮助信息. <br/>
+forge completions：生成shell 补全脚本. <br/>
+项目命令﻿ <br/>
+forge init：在当前目录下初始化一个新的Foundry 项目. <br/>
+forge clone：克隆一个Foundry 项目. <br/>
+forge install：安装项目的依赖项. <br/>
+forge update：更新项目中的依赖项. <br/>
+forge remove：移除项目的依赖项. <br/>
+forge config：配置项目设置. <br/>
+forge remappings：管理合约的重映射. <br/>
+forge tree：显示项目目录结构. <br/>
+forge geiger：检查代码中的潜在安全漏洞. <br/>
+构建命令﻿ <br/>
+forge build：编译项目中的智能合约. <br/>
+forge clean：清除构建产物. <br/>
+forge inspect：检查构建的详细信息. <br/>
+测试命令﻿ <br/>
+forge test：运行项目中的所有测试用例. <br/>
+forge snapshot：对测试结果进行快照比较. <br/>
+forge coverage：生成代码覆盖率报告. <br/>
+部署命令﻿ <br/>
+forge create：将智能合约部署到区块链网络. <br/>
+forge verify-contract：验证已部署合约的代码. <br/>
+forge verify-check：检查合约验证状态. <br/>
+forge flatten：将合约及其所有依赖项展平成一个文件. <br/>
 
 
 要选择不同的配置文件，请设置FOUNDRY_PROFILE环境变量。
