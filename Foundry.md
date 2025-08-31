@@ -18,6 +18,13 @@ tsc hello.ts
 
 他人介绍：
 https://zhuanlan.zhihu.com/p/589226221
+
+foundry中文文档
+https://learnblockchain.cn/docs/foundry/i18n/zh/forge/writing-tests.html
+
+foundry指导书
+https://getfoundry.sh/guides/project-setup/dependencies
+
 简单项目：
 https://github.com/Cyfrin/foundry-simple-storage-cu/blob/main/test/SimpleStorageTest.t.sol
 
