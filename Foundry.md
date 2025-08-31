@@ -25,6 +25,9 @@ https://learnblockchain.cn/docs/foundry/i18n/zh/forge/writing-tests.html
 foundry指导书
 https://getfoundry.sh/guides/project-setup/dependencies
 
+高小调视频项目中文说明：
+https://gaoxiaodiao.github.io/
+
 简单项目：
 https://github.com/Cyfrin/foundry-simple-storage-cu/blob/main/test/SimpleStorageTest.t.sol
 
