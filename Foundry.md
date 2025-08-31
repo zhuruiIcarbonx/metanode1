@@ -15,6 +15,9 @@ tsc hello.ts
 
 
 项目：
+
+https://zhuanlan.zhihu.com/p/589226221
+
 https://github.com/Cyfrin/foundry-simple-storage-cu/blob/main/test/SimpleStorageTest.t.sol
 
 https://github.com/Cyfrin/foundry-full-course-cu?tab=readme-ov-file#intro
