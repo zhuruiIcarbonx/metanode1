@@ -16,8 +16,9 @@ tsc hello.ts
 
 项目：
 
+他人介绍：
 https://zhuanlan.zhihu.com/p/589226221
-
+简单项目：
 https://github.com/Cyfrin/foundry-simple-storage-cu/blob/main/test/SimpleStorageTest.t.sol
 
 https://github.com/Cyfrin/foundry-full-course-cu?tab=readme-ov-file#intro
@@ -25,6 +26,15 @@ https://github.com/Cyfrin/foundry-full-course-cu?tab=readme-ov-file#intro
 https://github.com/adshao/publications/blob/master/uniswap/dive-into-uniswap-v3-whitepaper/README.md
 
 https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html
+
+视频：
+https://www.bilibili.com/video/BV1Qg4y1T7yx/?spm_id_from=333.337.search-card.all.click&vd_source=8d47e36db30010e743454c4d42a51d3e
+
+remappings.txt：
+https://getfoundry.sh/config/vscode.html
+
+vscode-solidity组件：
+https://github.com/juanfranblanco/vscode-solidity
 
 
 Foundry学习
