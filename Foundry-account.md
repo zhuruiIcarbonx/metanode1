@@ -1,3 +1,23 @@
+
+    Foundry 中的 vm 是一种用于本地测试和调试智能合约的强大工具，它允许你控制区块链环境，包括设置时间、模拟交易、检查事件和存储等。你可以使用 vm 相关的函数来操纵测试环境，例如 vm.warp() 用于设置时间戳，vm.roll() 用于设置区块高度，vm.prank() 用于模拟发送者地址，以及 vm.deal() 用于设置地址的代币余额等。﻿
+    以下是一些常见的Foundry vm 方法：
+    时间控制﻿
+    vm.warp(uint256)：设置当前测试的区块时间戳。
+    vm.roll(uint256)：设置当前测试的区块高度。
+    交易模拟﻿
+    vm.prank(address)：设置下一次调用时，谁将是 msg.sender。
+    vm.startPrank(address)：将 msg.sender 设置为某个地址，并且该设置对所有后续调用都生效。
+    vm.stopPrank()：重置 msg.sender 为合约自身地址，结束 prank 的设置。
+    状态操纵﻿
+    vm.deal(address, uint256)：设置某个地址的代币余额。
+    vm.load(address, bytes32)：从指定合约的存储槽加载数据。
+    测试断言﻿
+    vm.expectRevert(bytes calldata)：在测试中，期待下一次的合约调用会触发一个错误。
+    vm.expectEmit(...)：检查合约发出的事件是否符合预期，可以指定事件的参数进行校验。
+	
+
+
+
 以下是 Foundry 测试账号管理的完整解决方案，包含多种场景下的账号获取方式：
 
 ## 一、配置测试账号的 3 种方式
