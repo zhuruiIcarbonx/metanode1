@@ -68,6 +68,10 @@
         vscode-solidity组件：
         https://github.com/juanfranblanco/vscode-solidity
 
+        Foundry 常用命令和作弊码速查表
+        https://foresightnews.pro/article/detail/52649
+	
+
 
 
 ## 4、Solidity如何优化Gas费用
