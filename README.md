@@ -161,3 +161,71 @@ miner.start()   // 启动挖矿
 
 该作业通过源码分析、模块调试和系统设计三个维度，培养区块链底层开发能力。需要特别注意P2P网络层的kademlia协议实现和状态数据库的MPT树结构
 
+
+
+
+
+
+
+
+
+
+
+
+
+// SPDX-License-Identifier: UNLICENSED
+pragma solidity ^0.8.13;
+
+import {Test} from "forge-std/Test.sol";
+import {Counter} from "../src/Counter.sol";
+import {MetaNodeStake} from "../src/MetaNodeStake.sol";
+import {MetaNodeERC20} from "../src/MetaNodeERC20.sol";
+import {StakeERC20} from "../src/StakeERC20.sol";
+import {console} from "forge-std/console.sol";
+
+contract MetaNodeStakeTest is Test {
+    MetaNodeStake public stake;
+    StakeERC20 public stakeERC20;
+    MetaNodeERC20 public metaNodeERC20;
+
+    function setUp() public {
+        stakeERC20 = new StakeERC20();
+        metaNodeERC20 = new MetaNodeERC20();
+        stake = new MetaNodeStake();
+        stake.initialize(metaNodeERC20,10,10000,3_000_000_000_000_000_000); 
+
+    }
+
+    function test_addPool() public {
+
+        address _stTokenAddress = address(0);
+        uint256 _poolWeight = 10000;
+        uint256 _minDepositAmount = 100;
+        uint256 _unstakeLockedBlocks = 100;
+        stake.addPool(_stTokenAddress,_poolWeight,_minDepositAmount,_unstakeLockedBlocks);
+
+        (
+            address stTokenAddress, //质押代币地址
+            uint256 stTokenAmount, //池中总质押代币量
+            uint256 poolWeight, //质押池的权重，影响奖励分配
+            uint256 lastRewardBlock,//最后一次计算奖励的区块
+            uint256 accMetaNodePerST,//每个质押代币积累的奖励代币数量 ----这个参数的计算和使用有问题，该方式应该不适用实际业务
+            uint256 minDepositAmount,//最小质押金额
+            uint256 unstakeLockedBlocks //解除质押的锁
+        )  = stake.pools(0);
+
+        console.log("stTokenAddress-----",stTokenAddress);
+        console.log("stTokenAmount-----",stTokenAmount);
+        console.log("poolWeight-----",poolWeight);
+        console.log("lastRewardBlock-----",lastRewardBlock);
+        console.log("accMetaNodePerST-----",accMetaNodePerST);
+        console.log("minDepositAmount-----",minDepositAmount);
+        console.log("unstakeLockedBlocks-----",unstakeLockedBlocks);
+        
+
+        
+    }
+
+    
+}
+
