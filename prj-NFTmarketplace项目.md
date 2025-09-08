@@ -43,3 +43,9 @@
     查看每个变量占用哪个slot
     slither-read-storage ./contracts/EasySwapOrderBook.sol --contract-name EasySwapOrderBook --solc-remaps @=node_modules/@ --json storage_layout.json
 
+
+
+优化器（optimizer）:runs配置的次数低会增加部署gas费，配置的高会增大合约大小
+<img width="700" height="671" alt="image" src="https://github.com/user-attachments/assets/651562e3-f587-4b67-9b51-1505a7827117" />
+<img width="730" height="492" alt="image" src="https://github.com/user-attachments/assets/2a5198bf-819e-4344-b2f9-d60534d49056" />
+
