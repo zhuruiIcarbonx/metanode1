@@ -28,6 +28,9 @@
 
 ## 项目工具链接：
 
+    Waffle 是一个用于编写和测试智能合约的库。比 Truffle 更甜、更简单、更快捷。
+    https://ethereum-waffle.readthedocs.io/en/latest/
+	
     http://evm.codes/
 	
 	slither作用：1、检测合约漏洞  
