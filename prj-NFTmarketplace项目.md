@@ -30,9 +30,16 @@
 
     http://evm.codes/
 	
+	slither作用：1、检测合约漏洞  
+	https://github.com/crytic/slither
 
 
+## 项目命令功能
+### 1. Get Contract Size
+    npx hardhat size-contracts
 
 
-
+### 2. see storage layout of contract
+    查看每个变量占用哪个slot
+    slither-read-storage ./contracts/EasySwapOrderBook.sol --contract-name EasySwapOrderBook --solc-remaps @=node_modules/@ --json storage_layout.json
 
