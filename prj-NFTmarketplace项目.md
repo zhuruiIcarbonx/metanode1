@@ -41,6 +41,9 @@
 
     通过检查智能合约的编译字节码大小输出Solidity合约的大小（命令：npx hardhat size-contracts）：
 	npmjs/package/hardhat-contract-sizer
+
+    基于符号执行的 EVM 字节码安全分析工具,检测智能合约中的安全漏洞：
+	https://github.com/ConsenSysDiligence/mythril
 	
 
 
