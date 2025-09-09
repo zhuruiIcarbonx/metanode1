@@ -33,13 +33,13 @@
 	
     http://evm.codes/
 	
-	slither作用：1、检测合约漏洞  
+	slither作用：1、检测合约漏洞  2、输出slot位置
 	https://github.com/crytic/slither
 
     代码覆盖率报告：
     npmjs/package/solidity-coverage
 
-    通过检查智能合约的编译字节码大小输出Solidity合约的大小：
+    通过检查智能合约的编译字节码大小输出Solidity合约的大小（命令：npx hardhat size-contracts）：
 	npmjs/package/hardhat-contract-sizer
 	
 
