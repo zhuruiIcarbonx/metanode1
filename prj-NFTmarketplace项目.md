@@ -36,6 +36,9 @@
 	slither作用：1、检测合约漏洞  
 	https://github.com/crytic/slither
 
+    代码覆盖率报告：
+    npmjs/package/solidity-coverage
+
 
 ## 项目命令功能
 ### 1. Get Contract Size
