@@ -39,6 +39,10 @@
     代码覆盖率报告：
     npmjs/package/solidity-coverage
 
+    通过检查智能合约的编译字节码大小输出Solidity合约的大小：
+	npmjs/package/hardhat-contract-sizer
+	
+
 
 ## 项目命令功能
 ### 1. Get Contract Size
