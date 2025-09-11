@@ -26,7 +26,7 @@
     await tx.wait()
     console.log("mint tx:", tx.hash)
 
-## 项目工具链接：
+## 项目智能合约工具链接：
 
     Waffle 是一个用于编写和测试智能合约的库。比 Truffle 更甜、更简单、更快捷。
     https://ethereum-waffle.readthedocs.io/en/latest/
@@ -46,6 +46,12 @@
 	https://github.com/ConsenSysDiligence/mythril
 	
 
+## 项目go工具
+     
+	Cobra 是一个提供简单界面的库，用于创建类似于 git 和 go 工具的强大的现代 CLI 界面：
+    https://github.com/spf13/cobra?tab=readme-ov-file
+    https://cobra.dev/
+    
 
 ## 项目命令功能
 ### 1. Get Contract Size
