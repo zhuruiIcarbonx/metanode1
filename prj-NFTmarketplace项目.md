@@ -50,7 +50,14 @@
      
 	Cobra 是一个提供简单界面的库，用于创建类似于 git 和 go 工具的强大的现代 CLI 界面：
     https://github.com/spf13/cobra?tab=readme-ov-file
+	
+	可以创建你的应用程序并添加任何你想要的命令:
     https://cobra.dev/
+	
+	高度可配置：来源、方法、标题、凭证等，相当于一个拦截器:
+	github.com/gin-contrib/cors
+
+ 
     
 
 ## 项目命令功能
