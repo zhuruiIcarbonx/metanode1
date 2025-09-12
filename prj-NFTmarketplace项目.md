@@ -57,6 +57,10 @@
 	高度可配置：来源、方法、标题、凭证等，相当于一个拦截器:
 	github.com/gin-contrib/cors
 
+    介绍panic()、recover()方法：
+	https://www.cnblogs.com/makelu/p/11226974.html
+ 
+
  
     
 
