@@ -4,6 +4,12 @@
     
     公司排名（选200名以外的公司）：
     https://coinmarketcap.com/rankings/exchanges/
+	
+	项目三个都写：NFTMarket  计算积分  Pledge 
+	https://github.com/MetaNodeAcademy/ProjectBreakdown-NFTMarket
+	https://github.com/MetaNodeAcademy/ProjectBreakdown-Pledge
+	后两个项目体量：30万用户，5亿美元
+	区块链开发时间：2家公司，现在到1年半之前，三个项目
     
     go:
     https://github.com/mao888/golang-guide/blob/main/golang/go-Interview/GOALNG_INTERVIEW_COLLECTION.md
@@ -21,6 +27,20 @@
     
     EVM：
     https://learnblockchain.cn/article/4800
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
