@@ -1,16 +1,18 @@
 简历模板(项目经验)
-    NFT Market 
-    ● 技术架构：Solidity+OpenZeppelin+Hardhat+JavaScript+Node.js。 
-    ● 责任描述： 
-    ■ 编写合约代码实现任意NFT上架、下架、⼿续费提取等基础功能； 
-    ■ 编写合约代码实现NFT售卖能⼒,使⽤ReentrancyGuard防⽌重⼊,使⽤safeTransferFrom安全转移NFT; 
-    ■ ⽀持 EIP712 格式的 ERC20Permit 和 ERC721Permit 离线签名与链上验签； 
-    ■ 根据Staking Reward算法实现质押ETH奖励分配逻辑的Farm合约，合约中存储⽤户质押信息和流动池信息结构 
-    体来处理⽤户质押状态变更时的对应数据，确保有新的存提操作时更新每股的ERC20代币奖励; 使⽤ 
-    OpenZeppelin的SafeMath、Ownable实现安全数学运算和权限管理;  
-    ■ 使⽤OpenZeppelin的upgrades插件简化智能合约的部署和升级，安全的管理合约的升级;  
-    ■ 编写合约部署脚本保证合约的顺序部署和合约依赖地址设置，使⽤upgradeProxy升级合约; 
-    ■ 基于测试驱动开发编写单元测试确保合约稳定性和准确性。 
+```go
+        NFT Market 
+        ● 技术架构：Solidity+OpenZeppelin+Hardhat+JavaScript+Node.js。 
+        ● 责任描述： 
+        ■ 编写合约代码实现任意NFT上架、下架、⼿续费提取等基础功能； 
+        ■ 编写合约代码实现NFT售卖能⼒,使⽤ReentrancyGuard防⽌重⼊,使⽤safeTransferFrom安全转移NFT; 
+        ■ ⽀持 EIP712 格式的 ERC20Permit 和 ERC721Permit 离线签名与链上验签； 
+        ■ 根据Staking Reward算法实现质押ETH奖励分配逻辑的Farm合约，合约中存储⽤户质押信息和流动池信息结构 
+        体来处理⽤户质押状态变更时的对应数据，确保有新的存提操作时更新每股的ERC20代币奖励; 使⽤ 
+        OpenZeppelin的SafeMath、Ownable实现安全数学运算和权限管理;  
+        ■ 使⽤OpenZeppelin的upgrades插件简化智能合约的部署和升级，安全的管理合约的升级;  
+        ■ 编写合约部署脚本保证合约的顺序部署和合约依赖地址设置，使⽤upgradeProxy升级合约; 
+        ■ 基于测试驱动开发编写单元测试确保合约稳定性和准确性。
+```
 
 ```html
 波场 | BTFS ⾼级后端⼯程师
