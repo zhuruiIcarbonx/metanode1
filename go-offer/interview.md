@@ -86,6 +86,7 @@ https://learnblockchain.cn/article/4800
     后台处理分叉，12个区块的滑动窗口
     https://wcngrtwsafnt.feishu.cn/wiki/UF7Pw16xli2nrrkSC7Lc7ix8ngf
     https://wcngrtwsafnt.feishu.cn/wiki/UF7Pw16xli2nrrkSC7Lc7ix8ngf
+	https://blog.csdn.net/linweidong/article/details/145536204
     
     
     看最近几期的黑客松4-5个
