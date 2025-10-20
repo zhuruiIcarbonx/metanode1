@@ -29,10 +29,10 @@
 
 <br>
 
- **&emsp;&emsp;&emsp; SPK &nbsp; Exchange  &emsp;&emsp;&emsp;&emsp; |   &emsp;&emsp;2024.11 – 2025.10 &emsp;&emsp; | &emsp;&emsp; Golang后端开发工程师**
+ **&emsp;&emsp;&emsp; SPK &nbsp; Exchange  &emsp;&emsp;&emsp;&emsp;&emsp; |   &emsp;&emsp;2024.11 – 2025.10 &emsp;&emsp; | &emsp;&emsp; Golang后端开发工程师**
 <br>
 
-  **&emsp;&emsp;&emsp;  ME &nbsp;&nbsp; Exchange &emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;2024.01 – 2024.11 &emsp;&emsp; |  &emsp;&emsp; Golang后端开发工程师**
+  **&emsp;&emsp;&emsp;  ME &nbsp;&nbsp; Exchange &emsp;&emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;2024.01 – 2024.11 &emsp;&emsp; |  &emsp;&emsp; Golang后端开发工程师**
 <br>
 
  **&nbsp;深圳前海新心数字科技有限公司 &nbsp;&nbsp; |  &emsp;&emsp;2020.11 – 2023.12  &emsp;&emsp; | &emsp;&emsp;  Java架构师**
