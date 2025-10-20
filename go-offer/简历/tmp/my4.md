@@ -42,9 +42,9 @@
 
 ---
 
-## 工作经历
+## 项目经历
 
-### SPK Exchange | 2024.11 – 2025.10| 
+### SPK Exchange | 2024.11 – 2025.10
 
 #### 项目：Spark Protocol Pledge Platform  跨链借贷聚合平台
 
