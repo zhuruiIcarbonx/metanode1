@@ -180,9 +180,10 @@ Superseed 由 Arkantum Labs 构建，是一个通用的 Layer 2 协议，其协�
 
 
 
-
-	投递渠道：
-
-1、 整理的渠道可以看下： https://wcngrtwsafnt.feishu.cn/wiki/F3B8w0taoigJXdksphnc9SHNn7g
-2、常用的tg招聘频道、boss 、 https://job3.co/ 、https://www.dejob.top/ 、 https://www.remote3.co/ 等渠道。
-3、社区推荐的岗位清单：https://h5mjscvxuj.feishu.cn/sheets/ScdYsiuRMhTjzFt0rdXcCyshnom?from=from_copylink  找小二要下id的联系方式。
+  ```go
+  投递渠道：
+    
+    1、 整理的渠道可以看下： https://wcngrtwsafnt.feishu.cn/wiki/F3B8w0taoigJXdksphnc9SHNn7g
+    2、常用的tg招聘频道、boss 、 https://job3.co/ 、https://www.dejob.top/ 、 https://www.remote3.co/ 等渠道。
+    3、社区推荐的岗位清单：https://h5mjscvxuj.feishu.cn/sheets/ScdYsiuRMhTjzFt0rdXcCyshnom?from=from_copylink  找小二要下id的联系方式。
+```
