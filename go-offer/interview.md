@@ -106,6 +106,7 @@ https://learnblockchain.cn/article/4800
             [2]、网上找一下，看是否有项目所属公司信息。
             [3]、把项目信息发给gpt/trae/cursor，帮忙找一下。
 
+```go
 go的东西写的太少，一两句go的高并发：熟练掌握go高并发变成
 项目经验重点写后端，合约要少写。不能又写合约又写后端
 数十TB,不要写PB
@@ -142,7 +143,7 @@ https://wcngrtwsafnt.feishu.cn/wiki/UF7Pw16xli2nrrkSC7Lc7ix8ngf
         [1]、找到项目web端地址，拉到最后有没有所属公司。
         [2]、网上找一下，看是否有项目所属公司信息。
         [3]、把项目信息发给gpt/trae/cursor，帮忙找一下。
-
+```
 
     @Roger 内容大体是ok的，简历优化建议如下：
     1、 简历排版、字体、字间距及需重要突出的部分有优化空间 (参考简历优化建议)。
@@ -176,3 +177,12 @@ Superseed 由 Arkantum Labs 构建，是一个通用的 Layer 2 协议，其协�
     
     
     Avalon Labs 是一个 BTCFi 协议，旨在通过允许用户使用其持有的比特币作为抵押品来获取 USDa，从而提升其平台内比特币的使用率。Avalon Labs 还提供比特币支持贷款、有息储蓄账户和信用卡等金融产品。
+
+
+
+
+	投递渠道：
+
+1、 整理的渠道可以看下： https://wcngrtwsafnt.feishu.cn/wiki/F3B8w0taoigJXdksphnc9SHNn7g
+2、常用的tg招聘频道、boss 、 https://job3.co/ 、https://www.dejob.top/ 、 https://www.remote3.co/ 等渠道。
+3、社区推荐的岗位清单：https://h5mjscvxuj.feishu.cn/sheets/ScdYsiuRMhTjzFt0rdXcCyshnom?from=from_copylink  找小二要下id的联系方式。
