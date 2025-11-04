@@ -31,10 +31,10 @@
 
 
 
- **&emsp;&emsp;&emsp; SPK &nbsp; Exchange  &emsp;&emsp;&emsp;&emsp;&emsp; |   &emsp;&emsp;2024.07 – 2025.11 &emsp;&emsp; | &emsp;&emsp; web3资深Java后端工程师**
+ **&emsp;&emsp;&emsp; SPK &nbsp; Exchange  &emsp;&emsp;&emsp;&emsp;&emsp; |   &emsp;&emsp;2024.07 – 2025.11 &emsp;&emsp; | &emsp;&emsp; web3资深Java开发工程师**
 <br>
 
-  **&emsp;&emsp;&emsp;  ME &nbsp;&nbsp; Exchange &emsp;&emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;2022.07 – 2024.06 &emsp;&emsp; |  &emsp;&emsp; web3资深Java后端工程师**
+  **&emsp;&emsp;&emsp;  ME &nbsp;&nbsp; Exchange &emsp;&emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;2022.07 – 2024.06 &emsp;&emsp; |  &emsp;&emsp; web3资深Java开发工程师**
 <br>
 
  **&nbsp;前海新心数字科技有限公司 &emsp;&emsp;&nbsp;&nbsp;&nbsp; |  &emsp;&emsp;2020.11 – 2022.06  &emsp;&emsp; | &emsp;&emsp;  Java架构师**
