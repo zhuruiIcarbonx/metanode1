@@ -1,3 +1,8 @@
+# 朱锐
+
+**联系方式**：15112399975   •  249168838@qq.com   •   github.com/zhuruiIcarbonx
+
+---
 
 ## 个人技能
 
