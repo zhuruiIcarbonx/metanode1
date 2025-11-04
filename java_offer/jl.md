@@ -16,7 +16,7 @@
 
 ## 专业技能
 
-- **Java技术**：熟悉Java生态，熟练掌握springboot,springcloud(ureka，Ribbon，Hystrix，Feign，Gateway，Config),zookeeper,dubbo,elasticsearch,logstash, kibana,springmvc,nacos,Seata,Sentinel等框架技术
+- **Java技术**：熟悉Java生态，熟练掌握springboot,springcloud(Eureka，Ribbon，Hystrix，Feign，Gateway，Config),zookeeper,dubbo,elasticsearch,logstash, kibana,springmvc,nacos,Seata,Sentinel等框架技术
 - **区块链技术**：熟悉Solidity 0.8+开发与优化，理解ERC20/721/1155，EIP712/1559，熟练使用Openzeppelin库，掌握Hardhat和Foundry框架开发智能合约
 - **Go技术**：熟练掌握Go高并发编程和性能优化，善于使用Gin，gRPC，Gorm等框架；从事过多个go项目开发
 - **中间件**：熟悉kafka，RabbitMq，RocketMq等消息队列，擅长使用消息中间件解决项目高并发问题；熟悉ElasticSearch的使用和优化
